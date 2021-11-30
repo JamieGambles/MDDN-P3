@@ -1,0 +1,20 @@
+{
+  "commits": [
+    {
+      "sha": "3f278fe049fabc191314df887043022cacd5c659",
+      "name": "final_version"
+    },
+    {
+      "sha": "c1e0e3c4c7b8fcee1d123e937fef3e8dc2e3b961",
+      "name": "Patterns"
+    },
+    {
+      "sha": "0e1e207d81eb482f4d6b6470f16c2abce27ee147",
+      "name": "Face_refinements"
+    },
+    {
+      "sha": "2bb067334618e94f4e141af5637519390a4b8ae8",
+      "name": "Sketches"
+    }
+ ]
+}
